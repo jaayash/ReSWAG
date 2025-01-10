@@ -1,3 +1,3 @@
 # ReSWAG
 
-<img src="./logo/initial-logo.png" width=40%/>
+<img src="./logo/logo.png" width=50%/>
