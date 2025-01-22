@@ -1,3 +1,2 @@
-# ReSWAG
+# Smart Health Application
 
-<img src="./logo/logo.png" width=50%/>
