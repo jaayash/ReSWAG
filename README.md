@@ -1,2 +1,2 @@
-# Smart Health Application
+# Dr. CureX (LLM Enabled Health Care App)
 
